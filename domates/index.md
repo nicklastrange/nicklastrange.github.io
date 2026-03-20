@@ -35,10 +35,10 @@ DoMates sends reminders before a task is due, at the due time, and if a task bec
 
 If you need further assistance, please reach out:
 
-**Email:** [mikolaj.cekut@gmail.com](mailto:mikolaj.cekut@gmail.com)
+**Email:** [your@email.com](mailto:your@email.com)
 
 We aim to respond within 48 hours.
 
 ---
 
-[Privacy Policy](privacy)
+[Privacy Policy](privacy-policy)
