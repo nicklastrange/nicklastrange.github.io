@@ -1,12 +1,9 @@
 title: DoMates
 description: Shared chore management for roommates, couples & families.
-theme: minima
-url: "" # Update to https://<your-username>.github.io
-baseurl: "/domates-support"
-
-author:
-  name: DoMates Team
-  email: your@email.com # Replace with your actual email
+remote_theme: pages-themes/cayman@v0.2.0
+url: ""
+baseurl: ""
 
 plugins:
+  - jekyll-remote-theme
   - jekyll-seo-tag

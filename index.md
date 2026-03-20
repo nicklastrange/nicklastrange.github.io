@@ -1,21 +1,15 @@
 ---
-layout: home
+layout: default
 title: DoMates Support
 ---
 
-# DoMates
-
-**Shared chore management for roommates, couples & families.**
-
-DoMates helps you organize, assign, and track household tasks so everyone pulls their weight. Create chore lists, invite your household members, and never miss a deadline with smart reminders.
-
----
-
-## Support
+# Support
 
 Having trouble with DoMates? We're here to help.
 
-### Common Questions
+---
+
+## Common Questions
 
 **How do I create a chore list?**
 Open the app, enter your name, and tap "Create a new list". Give your list a name and you're ready to go.
@@ -41,12 +35,10 @@ DoMates sends reminders before a task is due, at the due time, and if a task bec
 
 If you need further assistance, please reach out:
 
-📧 **Email:** [your@email.com](mailto:your@email.com)
+**Email:** [mikolaj.cekut@gmail.com](mailto:mikolaj.cekut@gmail.com)
 
 We aim to respond within 48 hours.
 
 ---
 
-## Links
-
-- [Privacy Policy](privacy)
+[Privacy Policy](privacy)
