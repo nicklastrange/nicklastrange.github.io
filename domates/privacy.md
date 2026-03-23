@@ -52,4 +52,4 @@ We may update this Privacy Policy from time to time. Any changes will be reflect
 
 If you have questions about this Privacy Policy, please contact us at:
 
-**Email:** [your@email.com](mailto:your@email.com)
+**Email:** [mikolaj.cekut@gmail.com](mailto:mikolaj.cekut@gmail.com)
