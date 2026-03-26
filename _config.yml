@@ -1,9 +1,0 @@
-title: DoMates
-description: Shared chore management for roommates, couples & families.
-remote_theme: pages-themes/cayman@v0.2.0
-url: "https://nicklastrange.github.io"
-baseurl: ""
-
-plugins:
-  - jekyll-remote-theme
-  - jekyll-seo-tag
